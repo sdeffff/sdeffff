@@ -7,7 +7,7 @@
 
 
 # 📖 Currently Learning:
-![Next JS](https://img.shields.io/badge/-NextJs-ea2845?style=for-the-badge&logo=nextjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next JS](https://img.shields.io/badge/-NextJs-ea2845?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 # 🚀 Passionate Web Developer | Constant Learner
