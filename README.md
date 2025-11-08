@@ -7,7 +7,7 @@
 
 <h2 align="center">About Me 💼</h2>
 <div align='center'>
-  <ul style='list-style: none'>
+  <ul style="list-style: none;">
     <li>
       <h3>
         Dedicated Full Stack Developer
@@ -26,10 +26,10 @@
   </ul>
 </div>
 
-<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
+<img width=500 src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
-<div style='width: 100%; display: flex; flex-direction: column; align-items: center; justif-content: center;'>
-  <h2>Get In touch with me ✉️</h2>
+<div style="width: 100%; display: flex; flex-direction: column; align-items: center; justif-content: center;">
+  <h2 align="center">Get In touch with me ✉️</h2>
   
-  <h3>📧Email: <span>maksym.pavlii@gmail.com</span></h3>
+  <p>📧Email: <span>maksym.pavlii@gmail.com</span></p>
 </div>
