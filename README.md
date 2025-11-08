@@ -13,12 +13,6 @@
   </ul>
 </div>
 
-<p align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sdeffff&theme=dark" alt="sdeffff" />
-    </a>
-</p>
-
 # Get In touch with me ✉️
 <p align="center">
   <h2>📧Email: <span>maksym.pavlii@gmail.com</span></h2>
