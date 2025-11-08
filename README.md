@@ -26,12 +26,10 @@
   </ul>
 </div>
 
+<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
-<div style='display: flex; flex-direction: column; align-items: center; justif-content: center;'>
+<div style='width: 100%; display: flex; flex-direction: column; align-items: center; justif-content: center;'>
   <h2>Get In touch with me ✉️</h2>
   
   <h3>📧Email: <span>maksym.pavlii@gmail.com</span></h3>
-  <a href="https://www.linkedin.com/in/aryant-tripathi-bb83b0193/" style="border-radius: 12px; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
